@@ -1,0 +1,191 @@
+[
+  {
+    "subject": "Engineering Mathematics",
+    "topic": "Functions, Limits and Continuity",
+    "status": "in-progress",
+    "note": "Revisiting the foundations and practising how to interpret the question before choosing a method.",
+    "week": "Current revision",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Engineering Mathematics",
+    "topic": "Differentiation",
+    "status": "in-progress",
+    "note": "Working on derivative rules and recognising which rule a question requires. More practice is still needed.",
+    "week": "Current revision",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Engineering Mathematics",
+    "topic": "Applications of Differentiation",
+    "status": "struggling",
+    "note": "Need more step-by-step examples to connect the wording of a problem to the correct differentiation method.",
+    "week": "Needs practice",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Engineering Mathematics",
+    "topic": "Integration",
+    "status": "struggling",
+    "note": "Basic integration patterns and choosing the right approach are still challenging. Building confidence through worked examples.",
+    "week": "Needs practice",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Engineering Mathematics",
+    "topic": "Matrices and Determinants",
+    "status": "in-progress",
+    "note": "Reviewing the procedures and practising calculations carefully, one step at a time.",
+    "week": "Revision",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Engineering Mathematics",
+    "topic": "Discrete Probability Distributions",
+    "status": "in-progress",
+    "note": "Learning the common discrete distributions, identifying the correct distribution from a question, and using the calculator correctly.",
+    "week": "Current topic",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Engineering Mathematics",
+    "topic": "Probability: PMF, CDF and Expected Value",
+    "status": "struggling",
+    "note": "Need more practice reading probability questions and distinguishing probability mass from cumulative probability.",
+    "week": "Needs practice",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Programming",
+    "topic": "Programming Fundamentals and Control Flow",
+    "status": "in-progress",
+    "note": "Previous programming experience helps, but I am continuing to strengthen problem-solving and tracing code rather than relying on memorised patterns.",
+    "week": "Ongoing",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Programming",
+    "topic": "Loops, Arrays and Functions",
+    "status": "in-progress",
+    "note": "Revisiting nested loops, lists or arrays, and function logic through small exercises.",
+    "week": "Ongoing",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Programming",
+    "topic": "Data Structures and Algorithms",
+    "status": "in-progress",
+    "note": "Building a clearer understanding of how data structures work and when to use them.",
+    "week": "Ongoing",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Electrical Circuits",
+    "topic": "Voltage, Current and Resistance",
+    "status": "in-progress",
+    "note": "Strengthening the relationship between electrical quantities and learning to identify the information given in a circuit question.",
+    "week": "Current revision",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Electrical Circuits",
+    "topic": "Ohm's Law",
+    "status": "in-progress",
+    "note": "Practising V = IR and rearranging the formula correctly when solving numerical questions.",
+    "week": "Current revision",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Electrical Circuits",
+    "topic": "Kirchhoff's Voltage and Current Laws",
+    "status": "struggling",
+    "note": "Still need guided examples for choosing loop or node equations and keeping track of signs and directions.",
+    "week": "Needs practice",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Electrical Circuits",
+    "topic": "Series and Parallel Circuits",
+    "status": "in-progress",
+    "note": "Reviewing equivalent resistance and how current and voltage behave in each type of circuit.",
+    "week": "Ongoing",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Digital Logic",
+    "topic": "Number Systems and Binary Conversion",
+    "status": "in-progress",
+    "note": "Practising conversions between binary, decimal and hexadecimal, including checking each calculation.",
+    "week": "Ongoing",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Digital Logic",
+    "topic": "Logic Gates and Truth Tables",
+    "status": "in-progress",
+    "note": "Learning to translate gate diagrams into Boolean expressions and truth tables.",
+    "week": "Ongoing",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Digital Logic",
+    "topic": "Boolean Algebra",
+    "status": "struggling",
+    "note": "Need more repetition with Boolean identities and simplification before moving to more complex circuits.",
+    "week": "Needs practice",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Digital Logic",
+    "topic": "Combinational and Sequential Circuits",
+    "status": "struggling",
+    "note": "The differences between circuit types and how flip-flops store state need more explanation and practice.",
+    "week": "Needs practice",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Physics",
+    "topic": "Fundamental Physics Concepts",
+    "status": "in-progress",
+    "note": "Rebuilding the basics and learning how to identify the relevant formula and units from a question.",
+    "week": "Ongoing",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Engineering Study Skills",
+    "topic": "Understanding Questions and Worked Examples",
+    "status": "in-progress",
+    "note": "Practising how to break a long question into known values, required values, a suitable formula and clear working steps.",
+    "week": "Ongoing",
+    "semester": "Sem 1",
+    "resources": []
+  },
+  {
+    "subject": "Engineering Study Skills",
+    "topic": "Calculator Confidence",
+    "status": "in-progress",
+    "note": "Relearning calculator menu navigation and checking entries carefully, especially for probability calculations.",
+    "week": "Ongoing",
+    "semester": "Sem 1",
+    "resources": []
+  }
+]

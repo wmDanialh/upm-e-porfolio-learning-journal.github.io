@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>E-Portfolio : Learning Journal — Learning Log</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css?v=5">
+</head>
+<body>
+  <div id="site-header"></div>
+  <main class="wrap page-main learning-page">
+    <header class="page-heading">
+      <p class="eyebrow">WHAT I AM LEARNING</p>
+      <h1>Learning Log</h1>
+      <p>A personal study archive of concepts, practice, notes and resources—organized by semester and subject.</p>
+    </header>
+
+    <div class="ll-progress-strip">
+      <div class="ll-stat"><span class="ll-stat-num" id="stat-topics">0</span><span class="ll-stat-label">Topics logged</span></div>
+      <div class="ll-stat"><span class="ll-stat-num" id="stat-mastered">0</span><span class="ll-stat-label">Comfortable</span></div>
+      <div class="ll-stat"><span class="ll-stat-num" id="stat-inprogress">0</span><span class="ll-stat-label">In progress</span></div>
+      <div class="ll-stat"><span class="ll-stat-num" id="stat-subjects">0</span><span class="ll-stat-label">Subjects</span></div>
+    </div>
+
+    <section class="ll-semester-section">
+      <p class="eyebrow">MY DEGREE ROADMAP</p>
+      <div class="ll-semester-tabs" id="ll-semester-tabs" role="tablist" aria-label="Choose semester">
+        <button class="ll-semester-tab active" data-semester="Sem 1" role="tab" aria-selected="true">Semester 1</button>
+        <button class="ll-semester-tab" data-semester="Sem 2" role="tab" aria-selected="false">Semester 2</button>
+        <button class="ll-semester-tab" data-semester="Sem 3" role="tab" aria-selected="false">Semester 3</button>
+        <button class="ll-semester-tab" data-semester="Sem 4" role="tab" aria-selected="false">Semester 4</button>
+      </div>
+    </section>
+
+    <section class="ll-subject-section">
+      <div class="ll-section-heading"><h2 id="ll-semester-title">Semester 1 subjects</h2><span id="ll-subject-count" class="muted small"></span></div>
+      <div class="ll-subject-nav" id="ll-subject-filter" role="group" aria-label="Filter by subject">
+        <button class="ll-filter-btn active" data-subject="all">All subjects</button>
+      </div>
+    </section>
+
+    <div class="journal-tools ll-tools">
+      <input id="ll-search" type="search" placeholder="Search topics, notes or resources…" aria-label="Search learning log">
+      <select id="ll-status-filter" aria-label="Filter by progress">
+        <option value="all">All progress</option>
+        <option value="mastered">Comfortable</option>
+        <option value="in-progress">In progress</option>
+        <option value="struggling">Needs practice</option>
+      </select>
+    </div>
+    <p id="ll-results-count" class="muted small"></p>
+    <div id="ll-grid" class="ll-entry-list"></div>
+    <p class="editor-note">To add learning topics or resources, update <code>data/learning.json</code>. Each topic can include links to YouTube videos, books, websites, lecture slides and PDFs.</p>
+  </main>
+  <div id="site-footer"></div>
+  <script src="assets/js/site.js?v=5"></script>
+  <script src="assets/js/data-loader.js?v=5"></script>
+</body>
+</html>

@@ -1,0 +1,210 @@
+[
+  {
+    "id": "campus-life",
+    "title": "Campus Life",
+    "subtitle": "UPM — everyday moments",
+    "cover": "https://images.unsplash.com/photo-1562774053-701939374585?w=800&q=80",
+    "photos": [
+      {
+        "src": "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=85",
+        "caption": "The main walkway to the faculty building"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=85",
+        "caption": "University campus entrance"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1543505298-b8be9b52a21a?w=1200&q=85",
+        "caption": "Students spending time between classes"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1541178735493-479c1a27ed24?w=1200&q=85",
+        "caption": "Collaborative study at a library"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=85",
+        "caption": "A student desk and study setup"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?w=1200&q=85",
+        "caption": "A campus walkway in the morning"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&q=85",
+        "caption": "A quiet university campus setting"
+      }
+    ]
+  },
+  {
+    "id": "study-sessions",
+    "title": "Study Sessions",
+    "subtitle": "Notes, desks and late nights",
+    "cover": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "photos": [
+      {
+        "src": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&q=85",
+        "caption": "Revision notes arranged for study"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1455894127589-22f75500213a?w=1200&q=85",
+        "caption": "Stationery and study essentials"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&q=85",
+        "caption": "An evening study setup"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1546521343-4eb2c01aa44b?w=1200&q=85",
+        "caption": "Practising a calculus problem"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&q=85",
+        "caption": "An evening revision session"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&q=85",
+        "caption": "A weekly study planner"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&q=85",
+        "caption": "A quiet corner in a university library"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&q=85",
+        "caption": "Reviewing notes and practice questions"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&q=85",
+        "caption": "Reference books in a library"
+      }
+    ]
+  },
+  {
+    "id": "lectures-notes",
+    "title": "Lectures & Notes",
+    "subtitle": "What I learned this semester",
+    "cover": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+    "photos": [
+      {
+        "src": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&q=85",
+        "caption": "A university lecture in progress"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=1200&q=85",
+        "caption": "Lecture notes and annotations"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&q=85",
+        "caption": "Past-year examination practice"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&q=85",
+        "caption": "Reviewing quiz results"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&q=85",
+        "caption": "Mathematics worked on a whiteboard"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&q=85",
+        "caption": "A calculus practice workbook"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&q=85",
+        "caption": "Notebook and study materials"
+      }
+    ]
+  },
+  {
+    "id": "programming",
+    "title": "Programming",
+    "subtitle": "Code, bugs and breakthroughs",
+    "cover": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+    "photos": [
+      {
+        "src": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&q=85",
+        "caption": "A code editor during debugging"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?w=1200&q=85",
+        "caption": "Terminal output during troubleshooting"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1200&q=85",
+        "caption": "C++ programming practice"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&q=85",
+        "caption": "A software flowchart"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=85",
+        "caption": "Pseudocode and programming practice"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=1200&q=85",
+        "caption": "SQL queries and a database schema"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=85",
+        "caption": "Technology and hardware workspace"
+      }
+    ]
+  },
+  {
+    "id": "lab-electronics",
+    "title": "Lab & Electronics",
+    "subtitle": "Circuits, components and experiments",
+    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    "photos": [
+      {
+        "src": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=85",
+        "caption": "Electronic components on a breadboard"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=85",
+        "caption": "A circuit diagram for analysis"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&q=85",
+        "caption": "Recording measurements during a circuit experiment"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=85",
+        "caption": "Network cables and connectivity equipment"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&q=85",
+        "caption": "Working with technical equipment"
+      }
+    ]
+  },
+  {
+    "id": "group-work",
+    "title": "Group Work & Presentations",
+    "subtitle": "Teamwork, projects and presenting",
+    "cover": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80",
+    "photos": [
+      {
+        "src": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=85",
+        "caption": "A group presentation rehearsal"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200&q=85",
+        "caption": "Planning a program flowchart on a whiteboard"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1200&q=85",
+        "caption": "A classroom presentation"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=1200&q=85",
+        "caption": "A team project planning session"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=85",
+        "caption": "A collaborative project discussion"
+      }
+    ]
+  }
+]

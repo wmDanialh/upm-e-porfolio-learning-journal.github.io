@@ -1,0 +1,389 @@
+[
+  {
+  "id": "week-7",
+  "date": "2026-11-24",
+  "week": "Sem 1 · Week 7",
+  "category": "",
+  "title": "",
+  "excerpt": "",
+  "cover": "",
+  "coverAlt": "",
+  "readTime": " min read",
+  "content": [],
+    "photos": [
+    {
+      "src": "",
+      "alt": "",
+      "caption": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "",
+      "description": "",
+      "icon": "📄",
+      "href": ""
+    }
+  ]
+},
+{
+  "id": "sem1-week-6-graduate-employability",
+  "date": "2026-11-16",
+  "week": "Sem 1 · Week 6",
+  "category": "Professional Development",
+  "title": "Image, Professionalism, and Graduate Employability",
+  "excerpt": "From Encik Ludinata Bin Misnun's seminar on Boiling Frog Syndrome, VUCA, and Time Belting to completing my 20-mark handwritten assessment on professional image and sustainable engineering.",
+  "cover": "assets/images/posts/sem1/week6/week6-cover.jpeg",
+  "coverAlt": "University seminar session on graduate employability and professional image",
+  "readTime": "5 min read",
+"content": [
+    "In Week 6 of **ENG3111**, we attended a seminar titled **\"Impact of Image on Graduate Employability\"** delivered by **Encik Ludinata Bin Misnun** (**Head of the Governance and Integrity Division**) on **Monday, 16 November 2026 (2:30 PM – 4:00 PM)** at **Auditorium Radin Umar**, followed by a **20-mark handwritten Individual Short Assessment** submitted via **PutraBlast**. Reflecting on the talk and writing out my responses across four structured questions reshaped how I view career readiness, interdisciplinary teamwork, and engineering responsibility.",
+    "### Key Concepts from Encik Ludinata's Talk",
+    "- **Boiling Frog Syndrome:** A stark reminder not to grow overly comfortable with our current situation, or we risk failing to recognize subtle changes and emerging opportunities around us. As students, we must step outside our comfort zones, challenge ourselves, and refuse to let fear or negative thoughts hold us back from our goals.",
+    "- **Navigating a VUCA World:** Learned how **Volatility, Uncertainty, Complexity, and Ambiguity (VUCA)** define the unpredictable challenges we will encounter in our careers and daily lives—requiring us to stay flexible, open-minded, and ready to adapt when circumstances shift.",
+    "- **Time Belting (My Most Meaningful Takeaway):** Illustrated life as a timeline resembling a **Gantt chart** spanning birth, education, career, and retirement. Ambition alone is not enough without clear career targets and contingency plans for unexpected hurdles. Because university time is limited, **Time Belting** reminded me to look beyond simply graduating and intentionally shape the professional I want to become.",
+    "### Building My Image as a Future Engineer",
+    "- **Fast Adaptability & Willingness to Learn:** Because technologies and industries evolve rapidly, I must continuously upgrade my knowledge, master emerging tools, and embrace challenges outside my comfort zone.",
+    "- **Communication & Strategic Networking:** Technical knowledge alone is not enough—building trust and communicating effectively are equally vital. Leveraging professional platforms like **LinkedIn** allows me to connect with industry practitioners, showcase achievements, and unlock career referrals.",
+    "- **Discipline & Time Management:** Setting clear personal and professional goals while managing my schedule intentionally helps me track progress and prepare alternative solutions whenever unexpected obstacles arise.",
+    "### Engineers, Society & Interdisciplinary Collaboration",
+    "- **Solving Complex Problems Beyond Technical Silos:** Engineers cannot work in isolation because real-world societal challenges span multiple domains. For example, tackling **flooding** requires engineers to design better drainage systems and flood-monitoring technologies while collaborating closely with **environmental scientists** (environmental assessments), **urban planners** (development planning), **data specialists**, and **local authorities** (community insights) so solutions are practical and socially beneficial.",
+    "### Sustainable Development Across Six Dimensions",
+    "- **Evaluating Real-World Engineering Impacts:** Using a construction project as an example—which can stimulate the economy and create jobs while simultaneously affecting local communities and ecosystems—I analyzed why engineers must evaluate decisions across **six core Programme Outcome (PO) dimensions**: **society** (ensuring projects genuinely benefit people), **economy** (balancing costs, resources, and long-term value), **sustainability** and **environment** (reducing pollution and preventing unnecessary damage to natural resources), **health and safety** (protecting workers and the public), and **legal frameworks** (complying with laws and professional regulations to remain trustworthy).",
+    "Writing this reflection reinforced a central truth: being a good engineer is not merely about building something that works—it is about making responsible decisions and understanding how those choices shape society, the economy, and future generations."
+  ],
+  "photos": [
+    {
+      "src": "assets/images/posts/sem1/week6/20261116_151636.jpg",
+      "alt": "Seminar session on graduate employability and professional image",
+      "caption": "Attending the Impact of Image on Graduate Employability talk"
+    },
+    {
+      "src": "assets/images/posts/sem1/week6/20261116_153343.jpg",
+      "alt": "Graduate employability seminar participants",
+      "caption": "Seminar attendees engaging with the speaker and taking notes"
+    },
+    {
+      "src": "assets/images/posts/sem1/week6/20261116_153345.jpg",
+      "alt": "Graduate employability seminar participants",
+      "caption": "Seminar attendees engaging with the speaker and taking notes"
+    }
+  ],
+  "attachments": [
+    {
+      "name": "ENG3111 Impact of Image Assessment and Rubric.pdf",
+      "description": "Assessment criteria and rubric for the Impact of Image on Graduate Employability assignment",
+      "icon": "📄",
+      "href": "assets/files/sem1/week6/ENG3111_Impact_of_Image_Assessment_and_Rubric (1).pdf"
+    },
+    {
+      "name": "My Impact of Image on Graduate Employability Submission.pdf",
+      "description": "Submitted handwritten ENG3111 Week 6 individual short assessment (20 marks)",
+      "icon": "📄",
+      "href": "assets/files/sem1/week6/ENG3111_Impact_of_Image_Graduate_Employability_WAN_MOHD_DANIAL_HAKIM_BIN_WAN_NAENMUDDIN_BC265191 (1).pdf"
+    }
+  ]
+},
+{
+  "id": "sem1-week-5-engineering-safety",
+  "date": "2026-11-02",
+  "week": "Sem 1 · Week 5",
+  "category": "Engineering Practice",
+  "title": "Engineering with Safety in Mind: Hazard Hunt Photo Challenge",
+  "excerpt": "From Ts. Dr. Mohd Izhwan's OSH seminar at Auditorium Jurutera to our Faculty of Engineering Hazard Hunt Photo Challenge—learning to spot everyday risks and make campus spaces safer.",
+  "cover": "assets/images/posts/sem1/week5/week5-cover.jpg",
+  "coverAlt": "Students inspecting campus areas for safety hazards during the W5 Hazard Hunt Photo Challenge",
+  "readTime": "5 min read",
+  "content": [
+    "Week 5 centered on a core pillar of responsible engineering practice: **safety, health, and wellbeing**. Through the **ENG3111 (`DEPT W5`) Engineering Seminar** and the **W5 Hazard Hunt Photo Challenge**, we transitioned from passive safety awareness to actively inspecting accessible spaces across the **Faculty of Engineering, UPM** to identify real-world risks and propose practical preventive controls.",
+    "### Seminar Snapshot: Engineering with Safety in Mind",
+    "- **Session Details:** Held on **Monday, 2 November 2026 (2:00 PM – 3:00 PM)** at **Auditorium Jurutera, Faculty of Engineering, UPM**.",
+    "- **Guest Speaker:** **Ts. Dr. Mohd Izhwan bin Muhamad** — Science Officer (Department of Development Excellence), Secretary of the **Occupational Safety and Health Committee (OSHC)**, and **OSH Coordinator** for the Faculty of Engineering.",
+    "- **Core Takeaway:** Safety is everyone's shared responsibility—it begins with situational awareness, active observation, and proactive intervention before incidents occur.",
+    "### W5 Hazard Hunt Photo Challenge: Inspection Scope",
+    "- **Physical Safety:** Checked walkways and common areas for wet or slippery floors, obstructed corridors or emergency exits, exposed cables, and improperly stored items.",
+    "- **Laboratory Safety:** Inspected accessible lab zones for missing safety signage, unsafe equipment or material storage, and proper **Personal Protective Equipment (PPE)** standards.",
+    "- **Health & Ergonomics:** Evaluated student study workstations for seating posture, screen height, task lighting, and ventilation quality.",
+    "- **Safe Observation Protocol:** Conducted all observations strictly within accessible campus areas without entering restricted zones, touching hazardous items, or interfering with equipment.",
+    "### Documented Campus Hazards: Location, Risk & Action",
+    "- **Hazard 1 — Exposed & Trailing Cables (Faculty Walkway / Study Area):** Unsecured electrical cords routed across pedestrian paths create an immediate **trip and fall risk** for students and staff. **Suggested Action:** Reroute cables along walls and secure them with heavy-duty floor cable covers.",
+    "- **Hazard 2 — Obstructed Access & Improper Storage (Corridor / Common Area):** Misplaced furniture and stored materials narrowing walkways or blocking safety access routes risk **delayed evacuation during emergencies**. **Suggested Action:** Relocate stored items to designated storage zones and keep all exits completely clear.",
+    "- **Hazard 3 — Ergonomic & Lighting Setup (Student Workstation / Lab Bench):** Poor workstation arrangement paired with inadequate lighting and ventilation can trigger **eye strain, fatigue, and musculoskeletal discomfort** during long study or lab sessions. **Suggested Action:** Improve task lighting, adjust seating posture and screen height, and report faulty fixtures to faculty maintenance.",
+    "### Personal Reflection & Engineering Takeaways",
+    "- **Most Unexpected Hazard:** Realizing how easily everyday issues—such as routine cable placement, cluttered walkways, or suboptimal desk ergonomics—blend into the background even though they affect everyone using the Faculty daily.",
+    "- **Why Hazard Identification Matters for Engineers:** Effective engineers do not wait for accidents to happen; they recognize hazards early, evaluate potential risks, and design preventive controls so systems and workplaces protect people by default.",
+    "- **My Personal Commitment:** Keeping study and lab spaces organized, reporting unsafe equipment or missing safety signage promptly, and reminding peers to uphold safe laboratory and ergonomic habits.",
+    "Inspecting our own learning environment through an OSH lens reinforced that engineering excellence is inseparable from human safety—building a habit of proactive risk awareness that I will carry into every lab and future workplace."
+  ],
+  "photos": [
+    {
+      "src": "assets/images/posts/sem1/week5/20261116_161510.jpg",
+      "alt": "Hazard Hunt Photo 1 — Physical safety inspection at the Faculty of Engineering",
+      "caption": "Hazard #1 (Faculty of Engineering) — Documenting exposed and trailing cables and proposing cable management fixes"
+    },
+    {
+      "src": "assets/images/posts/sem1/week5/20261116_161738.jpg",
+      "alt": "Hazard Hunt Photo 2 — Walkway and storage safety check",
+      "caption": "Hazard #2 (Faculty Corridor / Common Area) — Identifying obstructed pathways and improperly stored items"
+    },
+    {
+      "src": "assets/images/posts/sem1/week5/20261116_161918.jpg",
+      "alt": "Hazard Hunt Photo 3 — Health and ergonomics observation in student area",
+      "caption": "Hazard #3 (Student Study / Workstation Area) — Assessing workstation setup, lighting, and ergonomics"
+    },
+    {
+      "src": "assets/images/posts/sem1/week5/20261116_161923.jpg",
+      "alt": "Close-up view of observed campus hazard for risk assessment",
+      "caption": "Closer angle assessing potential risks and who might be affected"
+    },
+    {
+      "src": "assets/images/posts/sem1/week5/20261116_162000.jpg",
+      "alt": "Laboratory and facility safety signage check",
+      "caption": "Checking accessible Faculty areas for safety signage and equipment storage standards"
+    },
+    {
+      "src": "assets/images/posts/sem1/week5/20261117_135140.jpg",
+      "alt": "Follow-up hazard documentation across the Faculty of Engineering",
+      "caption": "Day 2 walk-through verifying environmental and physical safety conditions"
+    },
+    {
+      "src": "assets/images/posts/sem1/week5/20261117_175753.jpg",
+      "alt": "Finalizing hazard photos and recommended corrective actions",
+      "caption": "Reviewing documented hazards and practical preventive actions for our e-Portfolio submission"
+    }
+  ],
+  "attachments": [
+    {
+      "name": "ENG3111 DEPT W5 Hazard Hunt Photo Challenge.pdf",
+      "description": "ENG3111 Dept W5 Hazard Hunt Photo Challenge brief and submission template",
+      "icon": "📄",
+      "href": "assets/files/sem1/week5/ENG3111_DEPT_W5_Hazard_Hunt_Photo_Challenge.pdf"
+    },
+    {
+      "name": "Seminar - Engineering with Safety in Mind.pdf",
+      "description": "ENG3111 Dept W5 seminar slides on engineering safety principles and practices",
+      "icon": "📄",
+      "href": "assets/files/sem1/week5/Seminar - Engineering with Safety in Mind.pdf"
+    }
+  ]
+},
+{
+  "id": "sem1-week-4-discovering-how-i-learn",
+  "date": "2026-10-26",
+  "week": "Sem 1 · Week 4",
+  "category": "Learning Experience",
+  "title": "Discovering How I Learn Best",
+  "excerpt": "Four weeks into my first semester at UPM, reflecting on my study habits and watching the Ultimate Study Technique Tier List helped me build a realistic 7-day active recall plan.",
+  "cover": "assets/images/posts/sem1/week4/week4-cover.jpg",
+  "coverAlt": "Student writing study reflection notes at a desk",
+  "readTime": "4 min read",
+  "content": [
+    "Reaching the one-month milestone at UPM called for an honest self-check through our **ENG3111 Effective Learning Habits** self-study activity, **\"My First 4 Weeks at UPM - Discovering How I Learn\"** (a 45–60 minute reflection submitted as a one-page PDF via **PutraBlast**). Guided by the mindset to **\"Learn about yourself · Experiment with strategies · Keep improving\"**, I reviewed the **Ultimate Study Technique Tier List (Learning Coach Edition)** and translated my experience into a structured **Personal Learning Improvement Plan**.",
+    "### Reflecting on My First Four Weeks at UPM",
+    "- **Biggest Learning Challenge:** Adjusting to the faster pace and greater independence of university learning has been my toughest hurdle. I sometimes need extra time to process dense technical information and feel unsure whether I have understood a concept deeply enough.",
+    "- **Moving Beyond Passive Lecture Reliance:** Over these four weeks, I realized that relying on lectures alone is not enough—I need to take an active role in reviewing material and testing my own comprehension.",
+    "- **What Works Best for Me:** I learn far more effectively when complex topics are broken down into smaller, manageable steps supported by clear worked examples. Reviewing my notes, practising questions, and working at my own pace help me pinpoint weak areas and build confidence before advancing to harder material.",
+    "### Study Habits & Techniques I Am Shifting",
+    "- **Replacing Last-Minute Cramming with Consistency:** One major habit I want to improve is becoming more consistent with weekly revision rather than leaving most of my studying until an assessment is near.",
+    "- **Adopting Active Recall:** Inspired by exploring study strategies in the **Ultimate Study Technique Tier List**, I am introducing **active recall**—closing my notes and explaining or writing down everything I remember—to verify what I genuinely understand instead of merely recognizing familiar text.",
+    "### My 7-Day Personal Learning Improvement Plan",
+    "- **Daily 20-Minute Retrieval Routine:** For the next seven days, I will dedicate **20 minutes each day** to reviewing one topic from my lecture notes. I will start by recalling the main ideas without looking at my notes, then check my work and correct any mistakes.",
+    "- **Question Logging & Spaced Revisits:** At the end of each session, I will write down **one targeted question** about anything that remains unclear and revisit earlier topics across the week so I practise retrieving information multiple times.",
+    "- **Seven-Day Commitment Statement:** *\"For the next seven days, I will review one topic for 20 minutes every day using active recall because I want to understand and remember what I learn more consistently.\"*",
+    "Instead of trying to overhaul every study habit overnight, focusing on one realistic, repeatable strategy gives me a practical baseline I can test, evaluate, and refine throughout my CCSE degree."
+  ],
+  "attachments": [
+    {
+      "name": "Effective Learning Habits Activity Guide.pdf",
+      "description": "ENG3111 Dept W4 self-study brief: My First 4 Weeks at UPM - Discovering How I Learn",
+      "icon": "📄",
+      "href": "assets/files/sem1/week4/ENG3111_DEPT_W4_Effective_Learning_Habits (2) (1).pdf"
+    },
+    {
+      "name": "My Personal Learning Improvement Plan.pdf",
+      "description": "Submitted one-page reflection and 7-day active recall commitment plan",
+      "icon": "📄",
+      "href": "assets/files/sem1/week4/BC265191_Effective_Learning_Habits (1).pdf"
+    },
+    {
+      "name": "Ultimate Study Technique Tier List (Learning Coach Edition)",
+      "description": "YouTube learning resource video featured in the ENG3111 Dept W4 activity[cite: 53]",
+      "icon": "🎥",
+      "href": "https://www.youtube.com/watch?v=WkjVaMDheJ4&t=771s"
+    }
+  ]
+},
+  {
+  "id": "sem1-week-3-innovation-infographic",
+  "date": "2026-10-19",
+  "week": "Sem 1 · Week 3",
+  "category": "Academic Challenge",
+  "title": "Tackling the Engineering Innovation Infographic Challenge",
+  "excerpt": "For our Specialized Topics in Engineering session, I designed i-JAGA—a smart campus safety and emergency alert system—and distilled its architecture into a single-page infographic.",
+  "cover": "assets/images/posts/sem1/week3/week3-cover.jpg",
+  "coverAlt": "Concept sketch and layout planning for the engineering innovation infographic",
+  "readTime": "5 min read",
+  "content": [
+    "In Week 3, our **Specialized Topics in Engineering** session for **Computer and Communication Systems Engineering (CCSE)** introduced the **Engineering Innovation Infographic Challenge**—a **60-minute self-directed learning activity** requiring us to solve a real-world campus or community problem on a single **A4 PDF page** submitted via **PutraBlast LMS**. Working within a structured five-step workflow—from problem scoping to system flow design and risk evaluation—I created **i-JAGA (Real-Time Alerts. Safer Campus.)**, a smart campus safety and emergency alert platform.",
+    "### Identifying the Campus Challenge",
+    "- **Core Safety Gaps:** Across university campuses, students frequently face security risks such as stolen laptops, missing personal items, and limited security checks, compounded by the lack of fast, reliable channels to report suspicious activity or request urgent help.",
+    "- **Stakeholders Affected:** These gaps create insecurity and inconvenience primarily for **students**, alongside **staff, lecturers, and campus visitors**.",
+    "### Proposed Solution: The i-JAGA 5-Layer Architecture",
+    "- **Integrated Smart Platform:** Designed **i-JAGA** as a mobile-based platform connecting **IoT sensors**, **building access control readers**, existing **CCTV**, and a **central security database** to support instant SOS reporting, location sharing, and verified emergency alerts.",
+    "- **Layer 1 — Input Layer:** Captures real-time data from a **Flutter/React Native mobile app** (SOS, incident reports, and GPS location), **access control readers** at building entry/exit points, **CCTV**, and **IoT sensors** in selected buildings.",
+    "- **Layer 2 — Communication Layer:** Transmits field data securely across the **campus network (Wi-Fi / 4G / 5G)** using a **Secure HTTPS API**.",
+    "- **Layer 3 — Processing Layer:** Uses a **Node.js / Laravel** backend and **MySQL / PostgreSQL** database enhanced with **AI/analytics** to prioritize incidents, enforce access-event rules, and store timestamped location records.",
+    "- **Layer 4 & 5 — Response & Output Layers:** Feeds live data into a web-based **Security Control Dashboard** that triggers **verified push alerts**, dispatches **security patrols**, tracks incident statuses, and broadcasts community safety updates.",
+    "### Impact, Rollout Plan & Risk Mitigation",
+    "- **Expected Campus Benefits:** Delivers **faster incident reporting**, **better investigation monitoring** through timestamped access and incident logs, and **timely verified alerts** for campus administration.",
+    "- **Four-Phase Implementation Roadmap:** Structured deployment across **Phase 1: Site Assessment (1–2 months)**, **Phase 2: Prototype Development (2–4 months)**, **Phase 3: Pilot Testing (2–3 months)**, and **Phase 4: Evaluation (1 month)**.",
+    "- **Critical Risk Evaluation & KPIs:** Addressed **privacy covenants** (strict access controls and data retention limits), **network/power outages** (offline emergency backup procedures), **false reports** (user verification and audit logs), and **deployment costs**, measured against KPIs like median security acknowledgment time and alert delivery rate.",
+    "### Key Engineering & Communication Takeaways",
+    "- **Designing to Rubric Standards:** Balancing the **20-mark assessment rubric**—covering **problem identification (4)**, **solution and technology justification (6)**, **system diagram clarity (4)**, **critical evaluation (4)**, and **communication with credible references (2)**—pushed me to back my architecture with **OWASP** mobile security and **Cisco** smart campus standards.",
+    "- **Responsible Use of AI & Visual Synthesis:** Following the guidelines on responsible AI use for layout organization while verifying all technical choices myself, the biggest takeaway was learning how to distill a multi-layer CCSE system architecture into a clean, persuasive visual story that anyone can grasp in seconds."
+  ],
+  "attachments": [
+    {
+      "name": "Engineering Innovation Infographic.pdf",
+      "description": "Engineerring infographic proposing an emerging-tech campus engineering solution",
+      "icon": "📄",
+      "href": "assets/files/sem1/week3/Specialized_Topics_Engineering_Infographic_Activity.pdf"
+    },
+    {
+      "name": "My Answer Key.pdf",
+      "description": "Submitted infographic proposing an emerging-tech campus engineering solution",
+      "icon": "📄",
+      "href": "assets/files/sem1/week3/BC265191_EngineeringInfographic.pdf"
+    }
+  ]
+},
+  {
+  "id": "week-2-first-lectures",
+  "date": "2026-10-12",
+  "week": "Sem 1 · Week 2",
+  "category": "Learning Experience",
+  "title": "First Full Week of Lectures & Global Engineering Perspectives",
+  "excerpt": "Week 2 ramped up with full engineering lectures and an introduction to the Global Engineering Challenge—teaching me that preparation before class is non-negotiable.",
+  "cover": "assets/images/posts/sem1/week2/week2-cover.jpg",
+  "coverAlt": "Lecture hall with rows of seats and a projector screen",
+  "readTime": "4 min read",
+  "content": [
+    "By Week 2, all my core **Computer and Communication Systems Engineering (CCSE)** courses were running at full pace, while our department-level **ENG3111 (`DEPT W2`)** seminar shifted focus to **Global Engineering Perspectives (ULIM)** alongside an introduction to the **Global Engineering Challenge** and its poster framework. Balancing fast-moving technical lectures with big-picture international engineering challenges was an immediate step up in university expectations.",
+    "### Global Engineering Perspectives & Cross-Cultural Skills",
+    "- **International Engineering Practices:** Explored how engineering operates across borders and why recognizing **cultural diversity** and **international perspectives** is vital in both university settings and future professional careers.",
+    "- **Interactive Global Scenarios (2:30 PM – 4:30 PM):** Participated in practical activities spanning **cultural case studies in engineering**, **global engineering project simulations**, **cross-cultural communication exercises**, and **international engineering ethics scenarios**.",
+    "- **Peer Reflection & Discussion (4:30 PM – 5:00 PM):** Exchanged insights with coursemates on how cross-cultural communication directly influences collaboration, safety, and real-world engineering outcomes.",
+    "### Global Engineering Challenge & Poster Standards",
+    "- **Tackling Real-World Complexity:** Examined how engineers address interconnected sustainability, infrastructure, and community resilience problems across diverse global contexts.",
+    "- **Structured Visual Storytelling:** Reviewed the **Global Engineering Challenge** poster guidelines, focusing on clear problem framing, logical flow, and communicating technical solutions concisely to a broad audience.",
+    "### Navigating University Lecture Pace: My Study Adjustments",
+    "- **Keeping Up with Core Courses:** In fast-paced classes like **Engineering Mathematics**, lecturers move rapidly through dense technical ground and expect students to review foundational concepts independently.",
+    "- **15-Minute Pre-Class Preview Habit:** Started spending **10–15 minutes** previewing topic outlines and key formulas the night before each lecture, making it much easier to follow derivations in real time and ask targeted questions.",
+    "- **Consistent Post-Lecture Review:** Began organizing and summarizing lecture notes the same day so unfamiliar concepts are resolved early rather than piling up.",
+    "One week of deliberate pre-lecture preparation—paired with a broader appreciation for global engineering and cross-cultural teamwork—already made university life feel far more structured and manageable."
+  ],
+    "photos": [
+    {
+      "src": "assets/images/posts/sem1/week2/20261012_141614.jpg",
+      "alt": "",
+      "caption": ""
+    },{
+      "src": "assets/images/posts/sem1/week2/20261012_155806.jpg",
+      "alt": "",
+      "caption": ""
+    },
+    {
+      "src": "assets/images/posts/sem1/week2/20261116_101945.jpg",
+      "alt": "",
+      "caption": ""    }
+    
+  ],
+  "attachments": [
+    {
+      "name": "ENG3111 G12 Grouping.pdf",
+      "description": "Grouping information for ENG3111 students into small teams for collaborative activities",
+      "icon": "📄",
+      "href": "assets/files/sem1/week2/ENG3111 G12 Grouping.pdf"
+    },
+    {
+      "name": "Global Engineering Challenge Poster.pdf",
+      "description": "Poster template for the Global Engineering Challenge",
+      "icon": "📄",
+      "href": "assets/files/sem1/week2/Eng Poster.pdf"
+    },
+    {
+      "name": "Global Engineering Challenge.pdf",
+      "description": "Introduction slides for the ENG3111 course",
+      "icon": "📄",
+      "href": "assets/files/sem1/week2/W2-Engineering Challenge.pdf"
+    },
+    {
+      "name": "Group 12 Answer Key.pdf",
+      "description": "Answer key for the Group 12 assignment",
+      "icon": "📄",
+      "href": "assets/files/sem1/week2/escape_island_challenge.pdf"
+    }
+  ]
+},
+{
+  "id": "week-1-new-chapter",
+  "date": "2026-10-10",
+  "week": "Sem 1 · Week 1",
+  "category": "Personal Reflection",
+  "title": "A New Chapter Begins at UPM",
+  "excerpt": "Beginning my CCSE journey at Universiti Putra Malaysia feels exciting and uncertain at the same time. Here is how Week 1 set the foundation for the semester.",
+  "cover": "assets/images/profile/cover.jpg",
+  "coverAlt": "University entrance gate on the first day as a registered student",
+  "readTime": "5 min read",
+  "content": [
+    "Starting my degree in **Computer and Communication Systems Engineering (CCSE)** at Universiti Putra Malaysia marks an exciting new chapter. Reviewing the **ENG3111 Engineering Seminar Intro Slides** and **Student Guide** during Week 1 shifted my perspective on what it takes to become an engineer. Built around the motto **\"Build. Explore. Connect. Grow.\"**, the course emphasizes that **engineering is not just about technology—it is also about people**, echoed in our opening quote: *\"The scientist discovers a world that exists. The engineer creates a world that never was. The communicator makes sure that world can be used.\"*",
+    "### How ENG3111 Works: Weekly Structure & Collaboration",
+    "- **Balanced Monday Sessions (2:00 PM – 5:00 PM):** Each three-hour session combines **1 to 1.5 hours** of interactive talks, forums, or workshops with **1 to 1.5 hours** of small-group peer discussions in breakout teams like our **Group 12 (G12)**.",
+    "- **Department (DEPT) vs. Faculty (FAC) Settings:** The syllabus alternates between department-level sessions with coursemates from our own field and mixed-class faculty sessions uniting students across **all eight UPM engineering departments** (KAA, KAW, KBP, KEE, KKA, KKK, KMP, and KPM) for transdisciplinary collaboration.",
+    "- **Adaptive Course Schedule:** While the 14-week roadmap outlines clear milestones, activities remain flexible to accommodate guest speaker availability, unforeseen circumstances, and evolving class learning needs.",
+    "### What We Will Explore Across the 14-Week Roadmap",
+    "- **Self-Awareness First (Week 1):** Before collaborating with diverse teams, we assess our own strengths, values, communication habits, and decision-making styles through the **16Personalities test**.",
+    "- **Global & Specialized Engineering Perspectives (Weeks 2–3):** We will explore international engineering practices and cross-cultural communication, followed by department-specific talks to compare our initial expectations of CCSE against industry reality.",
+    "- **Effective Study Habits & Lab Safety (Weeks 4–5):** Senior student representatives will lead workshops on time management, study techniques, goal-setting, and stress management, while Faculty OSH officers and ergonomics experts guide us through a **Hazard Hunt Photo Challenge**, **Faculty Lab Mapping**, and lab visits.",
+    "- **Professional Pathways & Multidisciplinary Thinking (Weeks 6–7):** Representatives from **BEM** (Board of Engineers Malaysia), **MBOT** (Malaysia Board of Technologists), and **IEM** (Institution of Engineers Malaysia) will explain professional registration and continuous learning, alongside a talk by the Dean on solving complex problems across engineering disciplines.",
+    "- **AI Ethics & Academic Integrity (Week 8):** Scenario-based discussions and debates will examine how to leverage generative AI tools like ChatGPT and Copilot responsibly without crossing into plagiarism or cheating.",
+    "- **High-Performing Teams & UN SDGs (Weeks 9–13):** Inter-departmental challenges will test task delegation and teamwork before we tackle the **17 UN Sustainable Development Goals (SDGs)** through an **AI-Generated Essay Improvement Task** (upgrading a 0-mark AI essay using original research and local context), the **Financial Times Climate Game**, and the **University SDG Startup Competition** featuring A1/24\"×36\" posters and elevator pitches.",
+    "### Assessment Breakdown: 100% Coursework & Standards",
+    "- **Engineering Seminar Activities (40% · PO6):** Split evenly between **reflective writing (20%)** and the **SDG Poster Startup Competition (20%)**, judged on innovation, SDG impact, feasibility, presentation clarity, and peer sticker votes.",
+    "- **Weekly Fishbowl Academic Discussions (20% · PO9):** A structured dialogue where an **inner circle of 5–7 students** discusses a topic while an **outer circle** observes. Applying the **7 Key Academic Conversation Skills** (such as elaborating, synthesizing, paraphrasing, and respectfully challenging ideas), we aim to progress from a *Cautious Supporter* to a *Connection Maker* or *The Catalyst* (18–20 marks).",
+    "- **Weekly Learning Journals & e-Portfolio (40% · PO11):** Hosted on **Google Sites** (sites.google.com), our e-portfolio compiles short weekly reflections—such as a 1-page write-up, infographic, or sub-3-minute vlog/podcast designed to take under an hour.",
+    "- **Strict Originality Policy:** Every reflection must be 100% our own authentic work; detected AI-generated content or plagiarism carries a **50% to 100% grade deduction**.",
+    "### Immediate Week 1 Action Plan",
+    "- **Complete the 16Personalities Assessment:** Take the 10–15 minute test to identify my personality type and understand how my work style complements our **G12** teammates.",
+    "- **Set Up My Google Sites e-Portfolio:** Create my profile page with a brief personal statement, program details, and the mandatory originality declaration.",
+    "- **Publish Learning Journal #1:** Reflect on my personality test insights and how self-awareness will guide my growth this semester.",
+    "With our **G12** group formed and the ENG3111 roadmap clear, I am ready to embrace both the technical challenges and collaborative opportunities ahead at UPM."
+  ],
+  "photos": [
+    {
+      "src": "assets/images/posts/sem1/week1/20261010_144051.jpg",
+      "alt": "New notebook and stationery",
+      "caption": "Ready for the first day on campus"
+    },
+    {
+      "src": "assets/images/posts/sem1/week1/20261012_093234.jpg",
+      "alt": "Student with backpack on campus",
+      "caption": "Walking to the first lecture of the semester"
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Engineering Innovation Infographic.pdf",
+      "description": "This course guide provides an overview of the planned activities and expectations for ENG3111. While we have carefully prepared this schedule, please note that some aspects of the course may be subject to change as the semester progresses. Changes might occur due to various factors such as guest speaker availability, unforeseen circumstances, or adjustments to better meet the class's learning needs.",
+      "icon": "📄",
+      "href": "assets/files/sem1/week1/ENG3111 Student Guide - Learning Activities.pdf"
+    },
+    {
+      "name": "ENG3111 - Intro Slides PDF.pdf",
+      "description": "Introduction slides for the ENG3111 course",
+      "icon": "📄",
+      "href": "assets/files/sem1/week1/ENG3111 Student Guide - Learning Activities.pdf"
+    }
+  ]
+}
+]

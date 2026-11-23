@@ -1253,3 +1253,75 @@ h3 {
   .mobile-nav-toggle { padding: 8px; min-width: 40px; }
   .album-photo-grid { grid-template-columns: minmax(0, 1fr) !important; }
 }
+
+/* MOBILE HEADER + ATTACHMENT OVERFLOW FIX (v7) */
+@media (max-width: 850px) {
+  .topbar {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+    gap: 10px !important;
+    padding: 10px 4% !important;
+  }
+  .mobile-nav-toggle {
+    order: 0 !important;
+    margin: 0 !important;
+    flex: 0 0 auto !important;
+  }
+  .brand {
+    order: 1 !important;
+    flex: 1 1 0 !important;
+    width: auto !important;
+    min-width: 0 !important;
+    margin: 0 !important;
+    white-space: normal !important;
+  }
+  .brand-mark { flex: 0 0 auto; max-width: 64px; }
+  .brand-name {
+    min-width: 0;
+    overflow-wrap: anywhere !important;
+    word-break: normal !important;
+  }
+  .main-nav {
+    order: 2 !important;
+    flex: 0 0 100% !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    margin: 0 !important;
+  }
+}
+@media (max-width: 600px) {
+  .article-attachments {
+    width: 100%;
+    max-width: 100%;
+    padding: 28px 14px 36px;
+    overflow-x: clip;
+  }
+  .attachment-list { width: 100%; min-width: 0; }
+  .attachment-item {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px;
+    overflow: hidden;
+  }
+  .attachment-info {
+    flex: 1 1 calc(100% - 54px);
+    width: 0;
+    min-width: 0;
+  }
+  .attachment-info strong {
+    white-space: normal !important;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    line-height: 1.4;
+  }
+  .attachment-info span { overflow-wrap: anywhere; word-break: break-word; }
+  .attachment-dl { margin-left: auto; flex: 0 0 auto; }
+}

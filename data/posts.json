@@ -1,8 +1,7 @@
-[
-  {
-  "id": "week-7",
-  "date": "2026-11-24",
-  "week": "Sem 1 · Week 7",
+[{
+  "id": "week-8",
+  "date": "2026-11-30",
+  "week": "Sem 1 · Week 8",
   "category": "",
   "title": "",
   "excerpt": "",
@@ -23,6 +22,68 @@
       "description": "",
       "icon": "📄",
       "href": ""
+    }
+  ]
+},
+  {
+  "id": "sem1-week-7-multidisciplinary-engineering",
+  "date": "2026-11-23",
+  "week": "Sem 1 · Week 7",
+  "category": "Engineering Practice",
+  "title": "Engineering as a Multidisciplinary Field: One Problem, Many Perspectives",
+  "excerpt": "From Assoc. Prof. Dr. Fazirulhisyam Hashim's seminar on how eight engineering disciplines power a single phone call to pitching a multi-discipline flash flood resilience plan with my team.",
+  "cover": "assets/images/posts/sem1/week7/20261123191653.jpeg",
+  "coverAlt": "ENG3111 Engineering Seminar poster on Engineering as a Multidisciplinary Field by Assoc. Prof. Dr. Fazirulhisyam Hashim",
+  "readTime": "5 min read",
+  "content": [
+    "In Week 7 of **ENG3111 (`DEPT W7`)**, we explored **Engineering as a Multidisciplinary Field** through a seminar delivered by **Assoc. Prof. Dr. Fazirulhisyam Hashim** (**Deputy Dean of Research & Innovation and Industry & Community Relations**) on **Monday, 23 November 2026 (2:00 PM – 3:00 PM)** at **Auditorium Jurutera, Faculty of Engineering, UPM**. Following the talk, we moved into breakout groups for **\"The Multidisciplinary Solution Pitch\"**—a fast-paced team challenge built around the theme **\"One Problem, Many Perspectives, One Shared Solution\"**.",
+    "### Seminar Takeaways: It Takes Different Expertise, One Solution",
+    "- **From Ordinary People to Problem Solvers:** Using a superhero analogy, the lecture illustrated that while an individual specialist can step up with purpose, real-world problems are far too complex and overwhelming to defeat alone. Just like a team of heroes uniting different strengths, engineers overcome major societal challenges by combining diverse disciplinary perspectives.",
+    "- **Deconstructing a Simple Mobile Phone Call:** To show how deeply disciplines intersect in everyday technology, we traced what actually happens behind a single phone call across the **Access Network**, **Core Network**, and **Internet / Global Network**.",
+    "- **Eight Disciplines Behind One Call:** Making that single call possible relies simultaneously on **Communication Engineering** (sending and receiving signals), **Electrical Engineering** (power, circuits, and hardware), **Computer Engineering** (network software and system control), **Mechanical Engineering** (reliable, durable devices), **Civil Engineering** (towers, buildings, and infrastructure), **Chemical Engineering** (battery materials), **Industrial Engineering** (efficiency, quality, and user experience), and **Environmental Engineering** (sustainable, low-impact operation).",
+    "### Team Activity: The Multidisciplinary Solution Pitch",
+    "- **The Severe Weather & Flash Flood Scenario:** Acting as a multidisciplinary engineering team appointed by a local authority, our mission was to help a community prepare for, respond to, and recover from heavy rainfall and flash floods that damage homes and roads, disrupt power and communications, contaminate water, and delay emergency responders.",
+    "- **Rapid Collaborative Structuring:** With **15 minutes of team preparation** for a **3-minute pitch plus Q&A**, we structured our proposal around four pillars: **The Problem**, **Our Solution**, **The Multidisciplinary Team** (integrating at least three engineering fields), and **The Impact**.",
+    "- **Our Integrated Three-Discipline Strategy:** During our brainstorming session, we mapped out how distinct fields reinforce one another—combining **Civil Engineering** (building improved drainage infrastructure to reduce flood severity), **Aerospace Engineering** (deploying drones for real-time aerial monitoring to identify passable evacuation routes), and **Electrical & Electronic alongside Computer and Communication Systems Engineering** (deploying sensor networks and early flood-warning alert systems).",
+    "- **Targeted Community Outcomes:** We aligned our technical design around three measurable community impacts: **faster and safer emergency response**, **service continuity and public health protection**, and **long-term community resilience**.",
+    "### Reflections for My CCSE Journey",
+    "- **Seeing Where CCSE Fits in the Bigger Picture:** As a **Computer and Communication Systems Engineering (CCSE)** student, this session clarified that our work in communication networks, real-time alerts, data, and system coordination delivers its greatest value when integrated seamlessly with physical infrastructure and field hardware.",
+    "- **Communicating Across Boundaries:** Condensing a multi-agency engineering proposal into a three-minute pitch reinforced that effective engineers must translate technical capabilities into clear, practical value that local authorities and communities can trust.",
+    "Week 7 made it clear that mastering my own discipline is only the starting point—true engineering impact happens when different fields align toward one shared solution."
+  ],
+  "photos": [
+    {
+      "src": "assets/images/posts/sem1/week7/202611231916441.jpeg",
+      "alt": "",
+      "caption": ""
+    },
+    {
+      "src": "assets/images/posts/sem1/week7/202611231916441.jpeg",
+      "alt": "",
+      "caption": ""
+    },
+    {
+      "src": "assets/images/posts/sem1/week7/202611231916461.jpeg",
+      "alt": "",
+      "caption": ""
+    },
+    {
+      "src": "assets/images/posts/sem1/week7/202611231916491.jpeg",
+      "alt": "",
+      "caption": ""
+    },
+    {
+      "src": "assets/images/posts/sem1/week7/20261123191651.jpeg",
+      "alt": "",
+      "caption": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "The Multidisciplinary Solution Pitch Worksheet.jpeg",
+      "description": "ENG3111 Week 7 team activity brief and engineering discipline reference guide",
+      "icon": "📄",
+      "href": "assets/images/posts/sem1/week7/20261123191652.jpeg"
     }
   ]
 },

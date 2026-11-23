@@ -8,7 +8,6 @@ if (header) {
     <div class="topbar">
       <button class="mobile-nav-toggle" id="mobile-nav-toggle" type="button" aria-expanded="false" aria-controls="main-navigation">
         <span class="mobile-nav-toggle-icon" aria-hidden="true">☰</span>
-        <span class="mobile-nav-toggle-label">Menu</span>
       </button>
       <a class="brand" href="index.html">
         <img class="brand-mark" src="assets/images/profile/logo.png" alt="UPM Logo">

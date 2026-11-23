@@ -1078,6 +1078,11 @@ h3 {
   min-width: 0;
   align-self: start;
 }
+/* Desktop navigation: hamburger is hidden unless responsive breakpoint is active. */
+.mobile-nav-toggle {
+  display: none !important;
+}
+
 /* ================================
    RESPONSIVE POLISH (desktop/tablet/mobile)
 ================================ */
@@ -1100,7 +1105,7 @@ h3 {
   .brand-name { font-size: clamp(16px, 2.7vw, 20px); white-space: normal; }
   .brand-mark { max-height: 26px; }
   .mobile-nav-toggle {
-    display: inline-flex;
+    display: inline-flex !important;
     align-items: center;
     justify-content: center;
     gap: 8px;

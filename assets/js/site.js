@@ -11,7 +11,11 @@ if (header) {
         <span class="brand-divider"></span>
         <span class="brand-name">E-Portfolio : Learning Journal</span>
       </a>
-        <nav class="main-nav" aria-label="Main navigation">
+      <button class="mobile-nav-toggle" id="mobile-nav-toggle" type="button" aria-expanded="false" aria-controls="main-navigation">
+        <span class="mobile-nav-toggle-icon" aria-hidden="true">☰</span>
+        <span class="mobile-nav-toggle-label">Menu</span>
+      </button>
+      <nav class="main-nav" id="main-navigation" aria-label="Main navigation">
         <a href="index.html" ${currentPage === "index.html" ? 'aria-current="page"' : ""}>Home</a>
         <a href="journal.html" ${["journal.html", "article.html"].includes(currentPage) ? 'aria-current="page"' : ""}>My Journal</a>
         <a href="learning-log.html" ${currentPage === "learning-log.html" ? 'aria-current="page"' : ""}>Learning Log</a>
@@ -19,6 +23,23 @@ if (header) {
         <a href="about.html" ${currentPage === "about.html" ? 'aria-current="page"' : ""}>About</a>
       </nav>
     </div>`;
+
+  const navToggle = document.getElementById("mobile-nav-toggle");
+  const mainNavigation = document.getElementById("main-navigation");
+  if (navToggle && mainNavigation) {
+    navToggle.addEventListener("click", () => {
+      const isOpen = mainNavigation.classList.toggle("is-open");
+      navToggle.setAttribute("aria-expanded", String(isOpen));
+      navToggle.querySelector(".mobile-nav-toggle-icon").textContent = isOpen ? "✕" : "☰";
+    });
+    mainNavigation.querySelectorAll("a").forEach((link) => {
+      link.addEventListener("click", () => {
+        mainNavigation.classList.remove("is-open");
+        navToggle.setAttribute("aria-expanded", "false");
+        navToggle.querySelector(".mobile-nav-toggle-icon").textContent = "☰";
+      });
+    });
+  }
 }
 if (footer) {
 footer.innerHTML = `<footer class="site-footer"><a class="footer-brand" href="index.html">E-Portfolio : Learning Journal</a><br><p>A personal record of learning, challenges and growth at UPM.</p><br><small>© 2026–2027 · Made one entry at a time<br>Published by Wan Mohd Danial Hakim Wan Naenmuddin.</small></footer>`;}

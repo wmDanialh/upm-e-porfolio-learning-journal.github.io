@@ -27,7 +27,7 @@
     const scriptName = pageScripts[page];
     if (scriptName) {
       const script = document.createElement("script");
-      script.src = `assets/js/${scriptName}?v=5`;
+      script.src = `assets/js/${scriptName}?v=6`;
       script.onerror = () => showLoadError("The page content script could not be loaded.");
       document.body.appendChild(script);
     }

@@ -6,15 +6,15 @@ const currentPage = location.pathname.split("/").pop() || "index.html";
 if (header) {
   header.innerHTML = `
     <div class="topbar">
+      <button class="mobile-nav-toggle" id="mobile-nav-toggle" type="button" aria-expanded="false" aria-controls="main-navigation">
+        <span class="mobile-nav-toggle-icon" aria-hidden="true">☰</span>
+        <span class="mobile-nav-toggle-label">Menu</span>
+      </button>
       <a class="brand" href="index.html">
         <img class="brand-mark" src="assets/images/profile/logo.png" alt="UPM Logo">
         <span class="brand-divider"></span>
         <span class="brand-name">E-Portfolio : Learning Journal</span>
       </a>
-      <button class="mobile-nav-toggle" id="mobile-nav-toggle" type="button" aria-expanded="false" aria-controls="main-navigation">
-        <span class="mobile-nav-toggle-icon" aria-hidden="true">☰</span>
-        <span class="mobile-nav-toggle-label">Menu</span>
-      </button>
       <nav class="main-nav" id="main-navigation" aria-label="Main navigation">
         <a href="index.html" ${currentPage === "index.html" ? 'aria-current="page"' : ""}>Home</a>
         <a href="journal.html" ${["journal.html", "article.html"].includes(currentPage) ? 'aria-current="page"' : ""}>My Journal</a>

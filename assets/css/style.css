@@ -1201,3 +1201,55 @@ h3 {
   .gallery-albums, .album-photo-grid { grid-template-columns: 1fr; }
   .gallery-grid { grid-template-columns: 1fr; }
 }
+
+
+/* FINAL RESPONSIVE FIXES: mobile header, home and gallery */
+@media (max-width: 850px) {
+  .topbar {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    align-items: center;
+    justify-content: start;
+    flex-direction: unset;
+    flex-wrap: wrap;
+    gap: 10px 12px;
+    padding: 12px 4%;
+  }
+  .mobile-nav-toggle { order: 0; justify-self: start; }
+  .brand { order: 1; min-width: 0; width: 100%; }
+  .brand-name { overflow-wrap: normal; word-break: normal; }
+  .main-nav { order: 2; grid-column: 1 / -1; width: 100%; margin: 0; }
+  .main-nav.is-open { display: flex; }
+  .main-nav a { width: 100%; }
+}
+@media (max-width: 600px) {
+  .topbar { grid-template-columns: auto minmax(0, 1fr); align-items: center; }
+  .brand { width: auto; flex: 1; }
+  .brand-mark { max-width: 68px; height: auto; }
+  .brand-name { font-size: clamp(14px, 4.2vw, 17px); line-height: 1.2; }
+  .brand-divider { display: none; }
+  .hero { min-height: 400px; background-position: center center; }
+  .hero-inner { padding: 38px 0; }
+  .hero h1 { letter-spacing: -1px; }
+  .hero-copy { font-size: 15px; line-height: 1.55; }
+  .hero-meta { font-size: 11px; }
+  .home-grid { display: block; }
+  .home-grid > div, .home-grid .sidebar { width: 100%; min-width: 0; }
+  .post-grid { display: grid; grid-template-columns: minmax(0, 1fr) !important; gap: 16px; }
+  .post-card { overflow: hidden; }
+  .post-image-link img { width: 100%; height: auto; aspect-ratio: 16 / 10; object-fit: cover; }
+  .gallery-albums { display: grid; grid-template-columns: minmax(0, 1fr) !important; gap: 14px; }
+  .gallery-album { display: grid; grid-template-columns: minmax(0, 1fr); overflow: hidden; }
+  .gallery-album-cover { width: 100%; height: auto !important; aspect-ratio: 16 / 10; object-fit: cover; }
+  .gallery-album-header { min-width: 0; padding: 14px; }
+  .gallery-album-title, .gallery-album-sub { overflow-wrap: anywhere; }
+  .album-photo-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)) !important; gap: 8px; }
+  .album-photo { min-width: 0; }
+  .album-photo img { width: 100%; height: auto !important; aspect-ratio: 4 / 3; object-fit: cover; }
+  .album-view { width: 100%; max-width: 100vw; overflow-x: hidden; }
+}
+@media (max-width: 380px) {
+  .brand-name { font-size: 13px; }
+  .mobile-nav-toggle { padding: 8px; min-width: 40px; }
+  .album-photo-grid { grid-template-columns: minmax(0, 1fr) !important; }
+}
